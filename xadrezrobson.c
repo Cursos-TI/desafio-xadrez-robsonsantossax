@@ -6,11 +6,12 @@
 int main() {
     // Nível Novato - Movimentação das Peças
 
- printf("Implementação de Movimentação do Bispo\n")
+ 
 
 // Utilizando uma estrutura de repetição para simular a movimentação do Bispo em diagonal
  // Movimentação de 5 casa para a direção diagonal esquerda
 
+printf("Implementação de Movimentação do Bispo - Movimentação de 5 casa para a direção diagonal esquerda\n")
 int b = 1;
 
 while (b < = 5)
